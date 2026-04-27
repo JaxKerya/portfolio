@@ -1,0 +1,283 @@
+Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'.
+9Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'.
+9Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-issuance'.
+9Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-redemption'.
+9Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'join-ad-interest-group'.
+9Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'.
+9Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'.
+7Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.
+42Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.
+7Form submission canceled because the form is not connected
+14[Violation] Permissions policy violation: xr-spatial-tracking is not allowed in this document.
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/9f30ddcef946158c/1777324780566/035dde6a166ad2da03d1773e456b8f2eee20667d987656298ffe1450a21b3cd1/9pQ-ZCUoU_EqRn6:1  Failed to load resource: the server responded with a status of 401 ()
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/9f30ddcef946158c/1777324780566/035dde6a166ad2da03d1773e456b8f2eee20667d987656298ffe1450a21b3cd1/9pQ-ZCUoU_EqRn6:1  Failed to load resource: the server responded with a status of 401 ()
+14This document requires 'TrustedHTML' assignment. The action has been blocked.
+28This document requires 'TrustedScript' assignment. The action has been blocked.
+14This document requires 'TrustedScriptURL' assignment. The action has been blocked.
+about:srcdoc:1 Executing inline script violates the following Content Security Policy directive 'script-src 'nonce-J82MHjlT0BiBYbdgNlXDlA' 'unsafe-eval''. Either the 'unsafe-inline' keyword, a hash ('sha256-eJGI0Ik4oYe/PKLDOt4wcN76wYs8h+Ew05pMzdY6xG8='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked.
+about:srcdoc:1 Executing inline script violates the following Content Security Policy directive 'script-src 'nonce-J82MHjlT0BiBYbdgNlXDlA' 'unsafe-eval''. Either the 'unsafe-inline' keyword, a hash ('sha256-eJGI0Ik4oYe/PKLDOt4wcN76wYs8h+Ew05pMzdY6xG8='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked.
+about:srcdoc:1 Executing inline script violates the following Content Security Policy directive 'script-src 'nonce-J82MHjlT0BiBYbdgNlXDlA' 'unsafe-eval''. Either the 'unsafe-inline' keyword, a hash ('sha256-eJGI0Ik4oYe/PKLDOt4wcN76wYs8h+Ew05pMzdY6xG8='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked.
+about:srcdoc:1 Executing inline script violates the following Content Security Policy directive 'script-src 'nonce-J82MHjlT0BiBYbdgNlXDlA' 'unsafe-eval''. Either the 'unsafe-inline' keyword, a hash ('sha256-eJGI0Ik4oYe/PKLDOt4wcN76wYs8h+Ew05pMzdY6xG8='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked.
+9The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/i0jxg/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/api/normal?lang=en:1 Failed to parse audio contentType: audio/mp4; codecs=ac-3
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/i0jxg/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/api/normal?lang=en:1
+ Failed to parse audio contentType: audio/mp4; codecs=ac-3
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/i0jxg/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/api/normal?lang=en:1
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/i0jxg/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/api/normal?lang=en:1 Failed to parse audio contentType: audio/mp4; codecs=ec-3
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/i0jxg/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/api/normal?lang=en:1
+ Failed to parse audio contentType: audio/mp4; codecs=ec-3
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/i0jxg/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/api/normal?lang=en:1
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/i0jxg/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/api/normal?lang=en:1 Invalid (ambiguous) video codec string: video/webm; codecs=vp9
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/i0jxg/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/api/normal?lang=en:1
+ Invalid (ambiguous) video codec string: video/webm; codecs=vp9
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/i0jxg/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/api/normal?lang=en:1
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/i0jxg/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/api/normal?lang=en:1 Failed to parse video contentType: video/ogg; codecs=theora
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/i0jxg/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/api/normal?lang=en:1
+ Failed to parse video contentType: video/ogg; codecs=theora
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/i0jxg/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/api/normal?lang=en:1
+about:srcdoc:1 Executing inline script violates the following Content Security Policy directive 'script-src 'nonce-tl9ho0aCUmduWcUq397iSg' 'unsafe-eval''. Either the 'unsafe-inline' keyword, a hash ('sha256-eJGI0Ik4oYe/PKLDOt4wcN76wYs8h+Ew05pMzdY6xG8='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked.
+about:srcdoc:1 Executing inline script violates the following Content Security Policy directive 'script-src 'nonce-tl9ho0aCUmduWcUq397iSg' 'unsafe-eval''. Either the 'unsafe-inline' keyword, a hash ('sha256-eJGI0Ik4oYe/PKLDOt4wcN76wYs8h+Ew05pMzdY6xG8='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked.
+about:srcdoc:1 Executing inline script violates the following Content Security Policy directive 'script-src 'nonce-tl9ho0aCUmduWcUq397iSg' 'unsafe-eval''. Either the 'unsafe-inline' keyword, a hash ('sha256-eJGI0Ik4oYe/PKLDOt4wcN76wYs8h+Ew05pMzdY6xG8='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked.
+about:srcdoc:1 Executing inline script violates the following Content Security Policy directive 'script-src 'nonce-tl9ho0aCUmduWcUq397iSg' 'unsafe-eval''. Either the 'unsafe-inline' keyword, a hash ('sha256-eJGI0Ik4oYe/PKLDOt4wcN76wYs8h+Ew05pMzdY6xG8='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked.
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/9f30de787ccf158c/1777324804290/c47f81e3669b723dac1e1d1b2fe91a440efcce6383940358fd75c55947992362/3CCckLQL3252vcP:1  Failed to load resource: the server responded with a status of 401 ()
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/9f30de787ccf158c/1777324804290/c47f81e3669b723dac1e1d1b2fe91a440efcce6383940358fd75c55947992362/3CCckLQL3252vcP:1  Failed to load resource: the server responded with a status of 401 ()
+Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'.
+Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'.
+Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-issuance'.
+Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-redemption'.
+Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'join-ad-interest-group'.
+Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'.
+Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'.
+normal?lang=en:1 [Violation] Avoid using document.write(). https://developers.google.com/web/updates/2016/08/removing-document-write
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+postMessage
+eval @ (unknown)
+onmessage @ blob:https://challenges.cloudflare.com/3d02ecff-0c7e-42f7-b4a1-53051406b1b3:1
+Worker.postMessage
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+E.c.<computed> @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+XMLHttpRequest.send
+E @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+setTimeout
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Cb @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+CX @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+JyCTV @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+D @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+[Violation] 'message' handler took 198ms
+normal?lang=en:1 Request for the Private Access Token challenge.
+about:srcdoc:1 Executing inline script violates the following Content Security Policy directive 'script-src 'nonce-DigDW9ssG5Xeelywduy2Lo' 'unsafe-eval''. Either the 'unsafe-inline' keyword, a hash ('sha256-eJGI0Ik4oYe/PKLDOt4wcN76wYs8h+Ew05pMzdY6xG8='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked.
+about:srcdoc:1 Executing inline script violates the following Content Security Policy directive 'script-src 'nonce-DigDW9ssG5Xeelywduy2Lo' 'unsafe-eval''. Either the 'unsafe-inline' keyword, a hash ('sha256-eJGI0Ik4oYe/PKLDOt4wcN76wYs8h+Ew05pMzdY6xG8='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked.
+about:srcdoc:1 Executing inline script violates the following Content Security Policy directive 'script-src 'nonce-DigDW9ssG5Xeelywduy2Lo' 'unsafe-eval''. Either the 'unsafe-inline' keyword, a hash ('sha256-eJGI0Ik4oYe/PKLDOt4wcN76wYs8h+Ew05pMzdY6xG8='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked.
+about:srcdoc:1 Executing inline script violates the following Content Security Policy directive 'script-src 'nonce-DigDW9ssG5Xeelywduy2Lo' 'unsafe-eval''. Either the 'unsafe-inline' keyword, a hash ('sha256-eJGI0Ik4oYe/PKLDOt4wcN76wYs8h+Ew05pMzdY6xG8='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked.
+normal?lang=en:1 
+normal?lang=en:1 Failed to parse audio contentType: audio/mp4; codecs=ac-3
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+ Failed to parse audio contentType: audio/mp4; codecs=ac-3
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+normal?lang=en:1 Failed to parse audio contentType: audio/mp4; codecs=ec-3
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+ Failed to parse audio contentType: audio/mp4; codecs=ec-3
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+normal?lang=en:1 Invalid (ambiguous) video codec string: video/webm; codecs=vp9
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+ Invalid (ambiguous) video codec string: video/webm; codecs=vp9
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+normal?lang=en:1 Failed to parse video contentType: video/ogg; codecs=theora
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+ Failed to parse video contentType: video/ogg; codecs=theora
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+C7 @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+Ci @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/b2tzu/0x4AAAAAADEVTZHRMT02-7Th/dark/fbE/new/normal?lang=en:1
+core.js:297 Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'payload')
+    at core.js:297:66041
+    at async Tx (core.js:297:65982)
+(anonymous) @ core.js:297
+await in (anonymous)
+Tx @ core.js:297
+Dx @ core.js:336
+(anonymous) @ core.js:342
+Promise.then
+(anonymous) @ core.js:342
+[Violation] 'load' handler took 585ms
+installHook.js:1 [contact] turnstile doğrulama başarısız: {success: false, errors: Array(1), hostname: null}
+overrideMethod @ installHook.js:1
+(anonymous) @ index-B-XLle1R.js:186
+about:srcdoc:1 Executing inline script violates the following Content Security Policy directive 'script-src 'nonce-iiCTLAoo1sZe6nJEuVFe79' 'unsafe-eval''. Either the 'unsafe-inline' keyword, a hash ('sha256-eJGI0Ik4oYe/PKLDOt4wcN76wYs8h+Ew05pMzdY6xG8='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked.
+about:srcdoc:1 Executing inline script violates the following Content Security Policy directive 'script-src 'nonce-iiCTLAoo1sZe6nJEuVFe79' 'unsafe-eval''. Either the 'unsafe-inline' keyword, a hash ('sha256-eJGI0Ik4oYe/PKLDOt4wcN76wYs8h+Ew05pMzdY6xG8='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked.
+normal?lang=en:1 [Violation] Avoid using document.write(). https://developers.google.com/web/updates/2016/08/removing-document-write
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+postMessage
+eval @ VM6:1
+setTimeout
+eval @ (unknown)
+onmessage @ blob:https://challenges.cloudflare.com/2d4dbb51-c336-4b1a-b4b6-2ef341863c34:1
+Worker.postMessage
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+postMessage
+eval @ VM5:1
+setTimeout
+eval @ (unknown)
+onmessage @ blob:https://challenges.cloudflare.com/2d4dbb51-c336-4b1a-b4b6-2ef341863c34:1
+Worker.postMessage
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+postMessage
+eval @ (unknown)
+onmessage @ blob:https://challenges.cloudflare.com/2d4dbb51-c336-4b1a-b4b6-2ef341863c34:1
+Worker.postMessage
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+yy @ normal?lang=en:1
+yW @ normal?lang=en:1
+f.<computed> @ normal?lang=en:1
+XMLHttpRequest.send
+s @ normal?lang=en:1
+setTimeout
+OUwWU @ normal?lang=en:1
+(anonymous) @ normal?lang=en:1
+eMNKr @ normal?lang=en:1
+yG @ normal?lang=en:1
+ysBfW @ normal?lang=en:1
+yj @ normal?lang=en:1
+i @ normal?lang=en:1
+normal?lang=en:1 
+normal?lang=en:1 Request for the Private Access Token challenge.

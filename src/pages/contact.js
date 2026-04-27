@@ -168,8 +168,9 @@ export async function renderContact(container) {
       if (CAPTCHA_ENABLED) {
         const verify = await verifyTurnstile(turnstileToken);
         if (!verify || verify.success !== true) {
-          console.warn('[contact] turnstile doğrulama başarısız:', verify);
-          showToast(t('contact.captchaFailed'), 'error');
+          const codes = Array.isArray(verify?.errors) ? verify.errors : [];
+          console.warn('[contact] turnstile doğrulama başarısız:', verify, 'codes:', codes);
+          showToast(turnstileFailureMessage(codes, t), 'error');
           resetTurnstile(turnstileWidgetId);
           turnstileToken = '';
           return;
@@ -243,6 +244,20 @@ function resetTurnstile(widgetId) {
   } catch (err) {
     console.warn('[contact] turnstile reset hatası:', err);
   }
+}
+
+/** Cloudflare siteverify `error-codes` → kullanıcı mesajı (Edge fn bunları `errors` olarak döner). */
+function turnstileFailureMessage(codes, t) {
+  if (!codes.length) return t('contact.captchaFailed');
+  const c = codes[0];
+  if (c === 'invalid-input-response' || c === 'missing-input-response') {
+    return t('contact.captchaErrInvalid');
+  }
+  if (c === 'timeout-or-duplicate') return t('contact.captchaErrTimeout');
+  if (c === 'invoke-failed' || c === 'exception' || c === 'empty-response') {
+    return t('contact.captchaErrNetwork');
+  }
+  return t('contact.captchaFailed');
 }
 
 function showToast(message, type = 'success') {
