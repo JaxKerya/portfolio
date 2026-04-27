@@ -1,0 +1,65 @@
+{
+  "header": {
+    "subtitle": "3D CHARACTER ANIMATOR"
+  },
+  "nav": {
+    "home": "HOME",
+    "info": "INFO",
+    "contact": "CONTACT"
+  },
+  "home": {
+    "loading": "Loading...",
+    "empty": "No videos yet."
+  },
+  "video": {
+    "backToHome": "Back to Home",
+    "prev": "prev",
+    "next": "next"
+  },
+  "info": {
+    "title": "INFO",
+    "bio": "About",
+    "awards": "Awards",
+    "contact": "Contact",
+    "resume": "Resume",
+    "skills": "Skills",
+    "experience": "Experience"
+  },
+  "contact": {
+    "title": "CONTACT",
+    "name": "Full Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "SEND",
+    "sending": "Sending...",
+    "success": "Your message has been sent! Thank you.",
+    "error": "An error occurred. Please try again.",
+    "errInvalidEmail": "Please enter a valid email address.",
+    "errMessageShort": "Your message must be at least 10 characters.",
+    "errMessageLong": "Your message can be at most 2000 characters.",
+    "errNameLong": "Name can be at most 100 characters.",
+    "errSubjectLong": "Subject can be at most 200 characters.",
+    "errCooldown": "Please wait at least {minutes} more minute(s) before sending another message.",
+    "errSpam": "Spam detected.",
+    "errTooFast": "Form was submitted too quickly. Please try again.",
+    "captchaPending": "Please wait for the security check to complete.",
+    "captchaFailed": "Security check failed. Please try again."
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "subtitle": "Portfolio management system",
+    "login": "Log In",
+    "username": "Username",
+    "password": "Password",
+    "logout": "Log Out",
+    "viewSite": "View Site",
+    "videos": "Videos",
+    "info": "Info Content",
+    "messages": "Messages",
+    "addVideo": "Add Video",
+    "deleteConfirm": "Are you sure you want to delete this item?",
+    "saved": "Saved!",
+    "deleted": "Deleted!"
+  }
+}

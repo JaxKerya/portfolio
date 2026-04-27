@@ -1,0 +1,12 @@
+# Security Policy for rabiagol.com
+# Rabia Göl - 3D Character Animator Portfolio
+
+Contact: mailto:contact@rabiagol.com
+Preferred-Languages: en, tr
+Canonical: https://rabiagol.com/.well-known/security.txt
+Expires: 2027-04-26T00:00:00.000Z
+
+# Notes:
+# This is a personal portfolio website. For responsibly disclosed security
+# vulnerabilities please contact via the email above with detailed
+# information. Response time: within 48-72 hours during weekdays.

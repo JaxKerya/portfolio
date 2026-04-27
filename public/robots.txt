@@ -1,0 +1,176 @@
+# robots.txt for rabiagol.com
+# Rabia Göl - 3D Character Animator Portfolio
+
+User-agent: *
+Allow: /
+
+# Static asset paths
+Allow: /assets/
+Allow: /logo.png
+Allow: /*.css
+Allow: /*.js
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.webp
+Allow: /*.svg
+Allow: /*.mp4
+Allow: /*.webm
+
+# Block admin areas
+Disallow: /admin
+Disallow: /admin/
+Disallow: /admin.html
+Disallow: /tr/admin
+Disallow: /tr/admin/
+
+# Block sensitive files
+Disallow: /*.sql
+Disallow: /node_modules/
+Disallow: /supabase/
+
+# Sitemap location
+Sitemap: https://rabiagol.com/sitemap.xml
+
+# Search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Social media unfurl bots — must be allowed for OG previews
+User-agent: facebookexternalhit
+Allow: /
+Crawl-delay: 0
+
+User-agent: Twitterbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: LinkedInBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+# ─── AI / LLM bots ───
+# Aşağıdaki bot'ların hepsi siteyi okuyup yanıtlarda referans verebilir.
+# llms.txt ile ek bağlam: https://rabiagol.com/llms.txt
+
+User-agent: GPTBot
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: CCBot
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: Bytespider
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: meta-externalagent
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: YouBot
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: Diffbot
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+User-agent: ImagesiftBot
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+# ─── Diğer ───
+# llms.txt — AI'lar için yapılandırılmış özet
+# https://llmstxt.org

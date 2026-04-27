@@ -1,0 +1,65 @@
+{
+  "header": {
+    "subtitle": "3D CHARACTER ANIMATOR"
+  },
+  "nav": {
+    "home": "ANA SAYFA",
+    "info": "HAKKIMDA",
+    "contact": "İLETİŞİM"
+  },
+  "home": {
+    "loading": "Yükleniyor...",
+    "empty": "Henüz video eklenmedi."
+  },
+  "video": {
+    "backToHome": "Ana Sayfaya Dön",
+    "prev": "önceki",
+    "next": "sonraki"
+  },
+  "info": {
+    "title": "HAKKIMDA",
+    "bio": "Hakkımda",
+    "awards": "Ödüller",
+    "contact": "İletişim",
+    "resume": "CV",
+    "skills": "Yetenekler",
+    "experience": "Deneyim"
+  },
+  "contact": {
+    "title": "İLETİŞİM",
+    "name": "Ad Soyad",
+    "email": "E-posta",
+    "subject": "Konu",
+    "message": "Mesaj",
+    "send": "GÖNDER",
+    "sending": "Gönderiliyor...",
+    "success": "Mesajınız gönderildi! Teşekkürler.",
+    "error": "Bir hata oluştu. Lütfen tekrar deneyin.",
+    "errInvalidEmail": "Lütfen geçerli bir e-posta adresi girin.",
+    "errMessageShort": "Mesajınız en az 10 karakter olmalıdır.",
+    "errMessageLong": "Mesajınız en fazla 2000 karakter olabilir.",
+    "errNameLong": "Ad Soyad en fazla 100 karakter olabilir.",
+    "errSubjectLong": "Konu en fazla 200 karakter olabilir.",
+    "errCooldown": "Lütfen yeni bir mesaj göndermek için en az {minutes} dakika daha bekleyin.",
+    "errSpam": "Spam algılandı.",
+    "errTooFast": "Form çok hızlı gönderildi. Lütfen tekrar deneyin.",
+    "captchaPending": "Lütfen güvenlik doğrulamasının tamamlanmasını bekleyin.",
+    "captchaFailed": "Güvenlik doğrulaması başarısız oldu. Lütfen tekrar deneyin."
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "subtitle": "Portfolio yönetim sistemi",
+    "login": "Giriş Yap",
+    "username": "Kullanıcı Adı",
+    "password": "Şifre",
+    "logout": "Çıkış",
+    "viewSite": "Siteyi Gör",
+    "videos": "Videolar",
+    "info": "Info İçeriği",
+    "messages": "Mesajlar",
+    "addVideo": "Video Ekle",
+    "deleteConfirm": "Bu öğeyi silmek istediğinize emin misiniz?",
+    "saved": "Kaydedildi!",
+    "deleted": "Silindi!"
+  }
+}

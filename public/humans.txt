@@ -1,0 +1,50 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Rabia Göl  --  3D Character Animator & Portfolio Owner
+    Contact:    contact [at] rabiagol.com
+    LinkedIn:   https://tr.linkedin.com/in/rabia-göl-62b13a210
+    Vimeo:      https://vimeo.com/user143976662
+    Instagram:  https://instagram.com/_ma_ma_miaa
+    Location:   Antalya, Turkey
+
+# THANKS
+
+    Autodesk Maya          --  Primary 3D animation tool
+    Vite                   --  Build tool
+    Supabase               --  Database, Auth, Storage, Edge Functions
+    Resend                 --  Transactional email
+    Cloudflare Turnstile   --  Captcha
+    Lucide Icons           --  Icon library
+    Google Fonts (Inter, Manrope)
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, JavaScript (ES Modules)
+    Vite 6
+    Supabase v2 (Postgres + Storage + Edge Functions)
+    Vimeo & YouTube embed support
+    Schema.org structured data (JSON-LD)
+    Responsive Design
+    SEO Optimized
+    Multi-language support (English / Türkçe)
+
+# SITE
+
+    Last update: 2026/04
+    Language:    English (default), Türkçe
+    Doctype:     HTML5
+
+# ANIMATION TOOLS
+
+    Primary:        Autodesk Maya
+    Specialization: Character Animation
+    Focus:          Storytelling through animation
+
+# INSPIRATION
+
+    "Animation is not the art of drawings that move
+     but the art of movements that are drawn."
+                                  -- Norman McLaren

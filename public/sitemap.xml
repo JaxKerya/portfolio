@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Bu dosya scripts/generate-sitemap.mjs tarafından otomatik üretilir.
+  Elle değiştirme: `npm run build` veya `npm run sitemap` her seferinde üzerine yazar.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <url>
+    <loc>https://rabiagol.com/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/"/>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/tr</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/"/>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/info</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/info"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/info"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/info"/>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/tr/info</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/info"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/info"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/info"/>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/contact</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/contact"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/contact"/>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/tr/contact</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/contact"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/contact"/>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/video/f4750baf-241b-4445-ae6c-8b7de97fc4fc</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/f4750baf-241b-4445-ae6c-8b7de97fc4fc"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/f4750baf-241b-4445-ae6c-8b7de97fc4fc"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/f4750baf-241b-4445-ae6c-8b7de97fc4fc"/>
+    <image:image>
+      <image:loc>https://i.ytimg.com/vi/wfJ8qP5MVgk/maxresdefault.jpg</image:loc>
+      <image:title>Lili ve Mira (Song)</image:title>
+      <image:caption>Lili ve Mira (Song)</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/wfJ8qP5MVgk/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Lili ve Mira (Song)</video:title>
+      <video:description>Lili ve Mira (Song)</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=wfJ8qP5MVgk</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/f4750baf-241b-4445-ae6c-8b7de97fc4fc</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/tr/video/f4750baf-241b-4445-ae6c-8b7de97fc4fc</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/f4750baf-241b-4445-ae6c-8b7de97fc4fc"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/f4750baf-241b-4445-ae6c-8b7de97fc4fc"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/f4750baf-241b-4445-ae6c-8b7de97fc4fc"/>
+    <image:image>
+      <image:loc>https://i.ytimg.com/vi/wfJ8qP5MVgk/maxresdefault.jpg</image:loc>
+      <image:title>Lili ve Mira (Song)</image:title>
+      <image:caption>Lili ve Mira (Song)</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/wfJ8qP5MVgk/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Lili ve Mira (Song)</video:title>
+      <video:description>Lili ve Mira (Song)</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=wfJ8qP5MVgk</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/f4750baf-241b-4445-ae6c-8b7de97fc4fc</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/video/40957995-b4ce-4a0f-b355-967b039182f5</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/40957995-b4ce-4a0f-b355-967b039182f5"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/40957995-b4ce-4a0f-b355-967b039182f5"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/40957995-b4ce-4a0f-b355-967b039182f5"/>
+    <image:image>
+      <image:loc>https://vumbnail.com/1144772574.jpg</image:loc>
+      <image:title>Gru face animation</image:title>
+      <image:caption>Gru face animation</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://vumbnail.com/1144772574.jpg</video:thumbnail_loc>
+      <video:title>Gru face animation</video:title>
+      <video:description>Gru face animation</video:description>
+      <video:content_loc>https://vimeo.com/1144772574</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/40957995-b4ce-4a0f-b355-967b039182f5</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/tr/video/40957995-b4ce-4a0f-b355-967b039182f5</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/40957995-b4ce-4a0f-b355-967b039182f5"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/40957995-b4ce-4a0f-b355-967b039182f5"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/40957995-b4ce-4a0f-b355-967b039182f5"/>
+    <image:image>
+      <image:loc>https://vumbnail.com/1144772574.jpg</image:loc>
+      <image:title>Gru face animation</image:title>
+      <image:caption>Gru face animation</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://vumbnail.com/1144772574.jpg</video:thumbnail_loc>
+      <video:title>Gru face animation</video:title>
+      <video:description>Gru face animation</video:description>
+      <video:content_loc>https://vimeo.com/1144772574</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/40957995-b4ce-4a0f-b355-967b039182f5</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/video/d9424518-b68e-4d47-a995-54ac72bd1ae6</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/d9424518-b68e-4d47-a995-54ac72bd1ae6"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/d9424518-b68e-4d47-a995-54ac72bd1ae6"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/d9424518-b68e-4d47-a995-54ac72bd1ae6"/>
+    <image:image>
+      <image:loc>https://i.ytimg.com/vi/1iMkoSZquvY/maxresdefault.jpg</image:loc>
+      <image:title>Lili Self Introduction</image:title>
+      <image:caption>Lili Self Introduction</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/1iMkoSZquvY/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Lili Self Introduction</video:title>
+      <video:description>Lili Self Introduction</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=1iMkoSZquvY</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/d9424518-b68e-4d47-a995-54ac72bd1ae6</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/tr/video/d9424518-b68e-4d47-a995-54ac72bd1ae6</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/d9424518-b68e-4d47-a995-54ac72bd1ae6"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/d9424518-b68e-4d47-a995-54ac72bd1ae6"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/d9424518-b68e-4d47-a995-54ac72bd1ae6"/>
+    <image:image>
+      <image:loc>https://i.ytimg.com/vi/1iMkoSZquvY/maxresdefault.jpg</image:loc>
+      <image:title>Lili Self Introduction</image:title>
+      <image:caption>Lili Self Introduction</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/1iMkoSZquvY/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Lili Self Introduction</video:title>
+      <video:description>Lili Self Introduction</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=1iMkoSZquvY</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/d9424518-b68e-4d47-a995-54ac72bd1ae6</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/video/01a8cd10-99c0-44bd-aa48-a3d542426f39</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/01a8cd10-99c0-44bd-aa48-a3d542426f39"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/01a8cd10-99c0-44bd-aa48-a3d542426f39"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/01a8cd10-99c0-44bd-aa48-a3d542426f39"/>
+    <image:image>
+      <image:loc>https://vumbnail.com/1144580355.jpg</image:loc>
+      <image:title>2025 DEMOREEL</image:title>
+      <image:caption>2025 DEMOREEL</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://vumbnail.com/1144580355.jpg</video:thumbnail_loc>
+      <video:title>2025 DEMOREEL</video:title>
+      <video:description>2025 DEMOREEL</video:description>
+      <video:content_loc>https://vimeo.com/1144580355</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/01a8cd10-99c0-44bd-aa48-a3d542426f39</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/tr/video/01a8cd10-99c0-44bd-aa48-a3d542426f39</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/01a8cd10-99c0-44bd-aa48-a3d542426f39"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/01a8cd10-99c0-44bd-aa48-a3d542426f39"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/01a8cd10-99c0-44bd-aa48-a3d542426f39"/>
+    <image:image>
+      <image:loc>https://vumbnail.com/1144580355.jpg</image:loc>
+      <image:title>2025 DEMOREEL</image:title>
+      <image:caption>2025 DEMOREEL</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://vumbnail.com/1144580355.jpg</video:thumbnail_loc>
+      <video:title>2025 DEMOREEL</video:title>
+      <video:description>2025 DEMOREEL</video:description>
+      <video:content_loc>https://vimeo.com/1144580355</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/01a8cd10-99c0-44bd-aa48-a3d542426f39</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/video/8ec65358-31dc-4eda-9e8e-7c1ef3c86367</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/8ec65358-31dc-4eda-9e8e-7c1ef3c86367"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/8ec65358-31dc-4eda-9e8e-7c1ef3c86367"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/8ec65358-31dc-4eda-9e8e-7c1ef3c86367"/>
+    <image:image>
+      <image:loc>https://i.ytimg.com/vi/V9jQSbkN6B0/maxresdefault.jpg</image:loc>
+      <image:title>Mira Self Introduction</image:title>
+      <image:caption>Mira Self Introduction</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/V9jQSbkN6B0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Mira Self Introduction</video:title>
+      <video:description>Mira Self Introduction</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=V9jQSbkN6B0</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/8ec65358-31dc-4eda-9e8e-7c1ef3c86367</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/tr/video/8ec65358-31dc-4eda-9e8e-7c1ef3c86367</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/8ec65358-31dc-4eda-9e8e-7c1ef3c86367"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/8ec65358-31dc-4eda-9e8e-7c1ef3c86367"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/8ec65358-31dc-4eda-9e8e-7c1ef3c86367"/>
+    <image:image>
+      <image:loc>https://i.ytimg.com/vi/V9jQSbkN6B0/maxresdefault.jpg</image:loc>
+      <image:title>Mira Self Introduction</image:title>
+      <image:caption>Mira Self Introduction</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/V9jQSbkN6B0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Mira Self Introduction</video:title>
+      <video:description>Mira Self Introduction</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=V9jQSbkN6B0</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/8ec65358-31dc-4eda-9e8e-7c1ef3c86367</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/video/08af0363-7615-4b13-838c-71cfa91653c5</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/08af0363-7615-4b13-838c-71cfa91653c5"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/08af0363-7615-4b13-838c-71cfa91653c5"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/08af0363-7615-4b13-838c-71cfa91653c5"/>
+    <image:image>
+      <image:loc>https://vumbnail.com/1148445039.jpg</image:loc>
+      <image:title>Akali Game Animation</image:title>
+      <image:caption>Akali Game Animation</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://vumbnail.com/1148445039.jpg</video:thumbnail_loc>
+      <video:title>Akali Game Animation</video:title>
+      <video:description>Akali Game Animation</video:description>
+      <video:content_loc>https://vimeo.com/1148445039</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/08af0363-7615-4b13-838c-71cfa91653c5</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/tr/video/08af0363-7615-4b13-838c-71cfa91653c5</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/08af0363-7615-4b13-838c-71cfa91653c5"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/08af0363-7615-4b13-838c-71cfa91653c5"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/08af0363-7615-4b13-838c-71cfa91653c5"/>
+    <image:image>
+      <image:loc>https://vumbnail.com/1148445039.jpg</image:loc>
+      <image:title>Akali Game Animation</image:title>
+      <image:caption>Akali Game Animation</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://vumbnail.com/1148445039.jpg</video:thumbnail_loc>
+      <video:title>Akali Game Animation</video:title>
+      <video:description>Akali Game Animation</video:description>
+      <video:content_loc>https://vimeo.com/1148445039</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/08af0363-7615-4b13-838c-71cfa91653c5</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/video/66dd6da4-f93e-4e7e-925f-63cada4ba5bb</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/66dd6da4-f93e-4e7e-925f-63cada4ba5bb"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/66dd6da4-f93e-4e7e-925f-63cada4ba5bb"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/66dd6da4-f93e-4e7e-925f-63cada4ba5bb"/>
+    <image:image>
+      <image:loc>https://i.ytimg.com/vi/RhAB0uZX-x8/maxresdefault.jpg</image:loc>
+      <image:title>Lili ve Mira Introduction</image:title>
+      <image:caption>Lili ve Mira Introduction</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/RhAB0uZX-x8/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Lili ve Mira Introduction</video:title>
+      <video:description>Lili ve Mira Introduction</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=RhAB0uZX-x8</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/66dd6da4-f93e-4e7e-925f-63cada4ba5bb</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/tr/video/66dd6da4-f93e-4e7e-925f-63cada4ba5bb</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/66dd6da4-f93e-4e7e-925f-63cada4ba5bb"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/66dd6da4-f93e-4e7e-925f-63cada4ba5bb"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/66dd6da4-f93e-4e7e-925f-63cada4ba5bb"/>
+    <image:image>
+      <image:loc>https://i.ytimg.com/vi/RhAB0uZX-x8/maxresdefault.jpg</image:loc>
+      <image:title>Lili ve Mira Introduction</image:title>
+      <image:caption>Lili ve Mira Introduction</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/RhAB0uZX-x8/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Lili ve Mira Introduction</video:title>
+      <video:description>Lili ve Mira Introduction</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=RhAB0uZX-x8</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/66dd6da4-f93e-4e7e-925f-63cada4ba5bb</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/video/944acfc0-424a-4043-b131-870bac7023fb</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/944acfc0-424a-4043-b131-870bac7023fb"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/944acfc0-424a-4043-b131-870bac7023fb"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/944acfc0-424a-4043-b131-870bac7023fb"/>
+    <image:image>
+      <image:loc>https://vumbnail.com/1144772044.jpg</image:loc>
+      <image:title>Akali walk cycle</image:title>
+      <image:caption>Akali walk cycle</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://vumbnail.com/1144772044.jpg</video:thumbnail_loc>
+      <video:title>Akali walk cycle</video:title>
+      <video:description>Akali walk cycle</video:description>
+      <video:content_loc>https://vimeo.com/1144772044</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/944acfc0-424a-4043-b131-870bac7023fb</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/tr/video/944acfc0-424a-4043-b131-870bac7023fb</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/944acfc0-424a-4043-b131-870bac7023fb"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/944acfc0-424a-4043-b131-870bac7023fb"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/944acfc0-424a-4043-b131-870bac7023fb"/>
+    <image:image>
+      <image:loc>https://vumbnail.com/1144772044.jpg</image:loc>
+      <image:title>Akali walk cycle</image:title>
+      <image:caption>Akali walk cycle</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://vumbnail.com/1144772044.jpg</video:thumbnail_loc>
+      <video:title>Akali walk cycle</video:title>
+      <video:description>Akali walk cycle</video:description>
+      <video:content_loc>https://vimeo.com/1144772044</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/944acfc0-424a-4043-b131-870bac7023fb</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/video/d1596d90-e35a-4209-8ac4-5a1b27b822f2</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/d1596d90-e35a-4209-8ac4-5a1b27b822f2"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/d1596d90-e35a-4209-8ac4-5a1b27b822f2"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/d1596d90-e35a-4209-8ac4-5a1b27b822f2"/>
+    <image:image>
+      <image:loc>https://vumbnail.com/1144588614.jpg</image:loc>
+      <image:title>2024 DEMOREEL</image:title>
+      <image:caption>2024 DEMOREEL</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://vumbnail.com/1144588614.jpg</video:thumbnail_loc>
+      <video:title>2024 DEMOREEL</video:title>
+      <video:description>2024 DEMOREEL</video:description>
+      <video:content_loc>https://vimeo.com/1144588614</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/d1596d90-e35a-4209-8ac4-5a1b27b822f2</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://rabiagol.com/tr/video/d1596d90-e35a-4209-8ac4-5a1b27b822f2</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rabiagol.com/video/d1596d90-e35a-4209-8ac4-5a1b27b822f2"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://rabiagol.com/tr/video/d1596d90-e35a-4209-8ac4-5a1b27b822f2"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rabiagol.com/video/d1596d90-e35a-4209-8ac4-5a1b27b822f2"/>
+    <image:image>
+      <image:loc>https://vumbnail.com/1144588614.jpg</image:loc>
+      <image:title>2024 DEMOREEL</image:title>
+      <image:caption>2024 DEMOREEL</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://vumbnail.com/1144588614.jpg</video:thumbnail_loc>
+      <video:title>2024 DEMOREEL</video:title>
+      <video:description>2024 DEMOREEL</video:description>
+      <video:content_loc>https://vimeo.com/1144588614</video:content_loc>
+      <video:player_loc>https://rabiagol.com/video/d1596d90-e35a-4209-8ac4-5a1b27b822f2</video:player_loc>
+      <video:publication_date>2026-04-26T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+      <video:platform relationship="allow">web</video:platform>
+      <video:tag>3D animation</video:tag>
+      <video:tag>character animation</video:tag>
+      <video:tag>Maya</video:tag>
+      <video:tag>Rabia Göl</video:tag>
+      <video:category>Animation</video:category>
+      <video:uploader info="https://rabiagol.com">Rabia Göl</video:uploader>
+    </video:video>
+  </url>
+</urlset>

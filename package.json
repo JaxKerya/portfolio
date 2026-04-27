@@ -1,0 +1,23 @@
+{
+  "name": "rabia-gol-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "sitemap": "node scripts/generate-sitemap.mjs",
+    "prerender": "node scripts/prerender.mjs",
+    "prebuild": "node scripts/generate-sitemap.mjs",
+    "build": "vite build",
+    "postbuild": "node scripts/prerender.mjs",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.2.8",
+    "@fontsource/manrope": "^5.2.8",
+    "@supabase/supabase-js": "^2.49.0"
+  }
+}
