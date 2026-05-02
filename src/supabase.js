@@ -157,18 +157,48 @@ export async function upsertInfoContent(sectionKey, contentTr, contentEn) {
 export async function verifyTurnstile(token) {
   if (!token) return { success: false, errors: ['no-token'] };
 
+  // Supabase JS SDK bazen Edge Function response'u parse ederken
+  // "Cannot read properties of undefined (reading 'payload')" hatası atıyor.
+  // Önce SDK ile deneriz, başarısız olursa doğrudan fetch ile deneriz.
   try {
     const { data, error } = await supabase.functions.invoke('verify-turnstile', {
       body: { token },
     });
     if (error) {
       console.error('verifyTurnstile invoke error:', error);
-      return { success: false, errors: ['invoke-failed'] };
+      // SDK hatası — doğrudan fetch ile dene
+      return await verifyTurnstileFetch(token);
     }
     return data || { success: false, errors: ['empty-response'] };
   } catch (err) {
-    console.error('verifyTurnstile error:', err);
-    return { success: false, errors: ['exception'] };
+    console.error('verifyTurnstile SDK error, falling back to fetch:', err);
+    return await verifyTurnstileFetch(token);
+  }
+}
+
+/**
+ * SDK çökerse doğrudan Edge Function URL'ine fetch ile istek atar.
+ */
+async function verifyTurnstileFetch(token) {
+  try {
+    const resp = await fetch(`${SUPABASE_URL}/functions/v1/verify-turnstile`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${SUPABASE_ANON_KEY}`,
+        'apikey': SUPABASE_ANON_KEY,
+      },
+      body: JSON.stringify({ token }),
+    });
+    if (!resp.ok) {
+      console.error('verifyTurnstileFetch HTTP error:', resp.status);
+      return { success: false, errors: [`http-${resp.status}`] };
+    }
+    const data = await resp.json();
+    return data || { success: false, errors: ['empty-response'] };
+  } catch (err) {
+    console.error('verifyTurnstileFetch error:', err);
+    return { success: false, errors: ['fetch-exception'] };
   }
 }
 

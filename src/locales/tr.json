@@ -44,10 +44,7 @@
     "errSpam": "Spam algılandı.",
     "errTooFast": "Form çok hızlı gönderildi. Lütfen tekrar deneyin.",
     "captchaPending": "Lütfen güvenlik doğrulamasının tamamlanmasını bekleyin.",
-    "captchaFailed": "Güvenlik doğrulaması başarısız oldu. Lütfen tekrar deneyin.",
-    "captchaErrInvalid": "Güvenlik doğrulaması sunucuda onaylanamadı. Sayfayı yenileyin; reklam engelleyici veya çok sıkı gizlilik eklentilerini bu site için kapatıp tekrar deneyin.",
-    "captchaErrTimeout": "Güvenlik doğrulamasının süresi doldu veya tekrar kullanıldı. Lütfen doğrulamayı yeniden tamamlayıp gönderin.",
-    "captchaErrNetwork": "Doğrulama servisine ulaşılamadı. Bağlantınızı kontrol edip tekrar deneyin."
+    "captchaFailed": "Güvenlik doğrulaması başarısız oldu. Lütfen tekrar deneyin."
   },
   "admin": {
     "title": "Admin Panel",

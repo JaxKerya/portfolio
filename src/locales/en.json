@@ -44,10 +44,7 @@
     "errSpam": "Spam detected.",
     "errTooFast": "Form was submitted too quickly. Please try again.",
     "captchaPending": "Please wait for the security check to complete.",
-    "captchaFailed": "Security check failed. Please try again.",
-    "captchaErrInvalid": "The security check could not be verified. Refresh the page, pause ad blockers or strict privacy extensions for this site, then try again.",
-    "captchaErrTimeout": "The security check expired or was already used. Please complete it again and submit.",
-    "captchaErrNetwork": "Could not reach the verification service. Check your connection and try again."
+    "captchaFailed": "Security check failed. Please try again."
   },
   "admin": {
     "title": "Admin Panel",
