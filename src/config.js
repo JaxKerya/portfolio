@@ -25,7 +25,7 @@ export const TURNSTILE_SITE_KEY = '0x4AAAAAADEVTZHRMT02-7Th';
  * (localhost testlerinde Cloudflare bazen "domain not allowed" diyor;
  *  prod'a deploy ettiğimde bunu false yapacağız.)
  */
-const DISABLE_CAPTCHA = false;
+const DISABLE_CAPTCHA = true;
 
 /**
  * Captcha kullanılsın mı? Site key boşsa veya manuel kapatılmışsa false.
