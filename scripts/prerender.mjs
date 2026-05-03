@@ -436,13 +436,27 @@ async function main() {
     writePage('/info', lang, buildInfoPage(lang));
     writePage('/contact', lang, buildContactPage(lang));
 
+    // Admin sayfası — noindex, SPA hydrate olması için shell yeterli
+    writePage('/admin', lang, buildPage({
+      html: TEMPLATE,
+      title: 'Admin',
+      description: 'Admin panel',
+      url: `${SITE.domain}${localizedPath('/admin', lang)}`,
+      type: 'website',
+      locale: lang === 'tr' ? 'tr_TR' : 'en_US',
+      lang,
+      noindex: true,
+      hreflang: hreflangFor('/admin'),
+      schemas: [],
+    }));
+
     let count = 0;
     for (const v of videos) {
       if (!v.id) continue;
       writePage(`/video/${v.id}`, lang, buildVideoPage(v, lang));
       count++;
     }
-    console.log(`[prerender] ${lang}: / + /info + /contact + ${count} video sayfası yazıldı`);
+    console.log(`[prerender] ${lang}: / + /info + /contact + /admin + ${count} video sayfası yazıldı`);
   }
 }
 
